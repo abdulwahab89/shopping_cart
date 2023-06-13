@@ -1,0 +1,28 @@
+                                       // widget.dbHelper
+                                        //     .insert(Cart(
+                                        //   id: index,
+                                        //   productId: index.toString(),
+                                        //   productName: widget
+                                        //       .productNames[index]
+                                        //       .toString(),
+                                        //   initialPrice:
+                                        //       widget.productPrice[index],
+                                        //   productPrice:
+                                        //       widget.productPrice[index],
+                                        //   quantity: 1,
+                                        //   unitTag: widget.productUnits[index]
+                                        //       .toString(),
+                                        //   image: widget.productImage[index]
+                                        //       .toString(),
+                                        // ))
+                                        //     .then(
+                                        //   (value) {
+                                        //     print("sucesffuly added");
+\                                        //     cart.addCounter();
+                                        //     cart.addTotalPrice(double.parse(
+                                        //         widget.productPrice[index]
+                                        //             .toString()));
+                                        //   },
+                                        // ).onError((error, stackTrace) {
+                                        //   print(error.toString());
+                                        // });
